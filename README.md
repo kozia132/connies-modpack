@@ -16,5 +16,7 @@ disables some clouds and rocks in the hub cause i think it looks better
 disables the "reset to defaults" button in game options to prevent accidentally deleting your settings :fire:
 
 ---
+### this will be sparingly updated
+---
 
 made with some help from chatgpt
